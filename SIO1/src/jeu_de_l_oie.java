@@ -1,4 +1,3 @@
-import java.util.Scanner;
 import  java.util.Random ;
 
 public class jeu_de_l_oie {
